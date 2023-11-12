@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699814043
+::res://::1699824316
 icon.svg::CompressedTexture2D::9118800136694045229::1699805480::1699805708::1::::<><>::
-world.tscn::PackedScene::6403082727530368055::1699813927::0::1::::<><>::res://addons/cyclops_level_builder/nodes/cyclops_block.gd<>res://addons/cyclops_level_builder/resources/convex_block_data.gd
+world.tscn::PackedScene::6403082727530368055::1699819546::0::1::::<><>::res://addons/cyclops_level_builder/nodes/cyclops_block.gd<>res://addons/cyclops_level_builder/resources/convex_block_data.gd
 ::res://addons/::1699807832
 ::res://addons/cyclops_level_builder/::1699807833
 cyclops_global_scene.gd::GDScript::-1::1699807723::0::1::::CyclopsGlobalScene<>Node3D<>::
@@ -136,7 +136,7 @@ convex_face_editor_viewport.tscn::PackedScene::4005176058401051432::1699807726::
 ::res://addons/cyclops_level_builder/docks/cyclops_console/::1699807832
 cyclops_console.gd::GDScript::-1::1699807726::0::1::::CyclopsConsole<>Control<>::
 cyclops_console.tscn::PackedScene::143352357671028003::1699807726::0::1::::<><>::res://addons/cyclops_level_builder/docks/cyclops_console/cyclops_console.gd
-::res://addons/cyclops_level_builder/docks/material_palette/::1699808796
+::res://addons/cyclops_level_builder/docks/material_palette/::1699816611
 material_palette_viewport.gd::GDScript::-1::1699807726::0::1::::MaterialPaletteViewport<>Control<>::
 material_palette_viewport.tscn::PackedScene::1036570676893576714::1699807726::0::1::::<><>::res://addons/cyclops_level_builder/docks/material_palette/material_palette_viewport.gd<>res://addons/cyclops_level_builder/docks/material_palette/thumbnail_group.gd
 material_snapshot.gd::GDScript::-1::1699807726::0::1::::MaterialShapshot<>SubViewport<>::
@@ -144,8 +144,8 @@ material_snapshot.tscn::PackedScene::8971473366283704766::1699807726::0::1::::<>
 material_thumbnail.gd::GDScript::-1::1699807726::0::1::::MaterialThumbnail<>Control<>::
 material_thumbnail.tscn::PackedScene::7310861943008900834::1699807726::0::1::::<><>::res://addons/cyclops_level_builder/docks/material_palette/material_thumbnail.gd<>uid://c0gpl22e2g6ay
 thumbnail_group.gd::GDScript::-1::1699807726::0::1::::ThumbnailGroup<>Resource<>::
-thumbnail_normal_theme.tres::Theme::4058405243379725578::1699808796::0::1::::<><>::
-thumbnail_selected_theme.tres::Theme::6540880583544088756::1699808796::0::1::::<><>::
+thumbnail_normal_theme.tres::Theme::4058405243379725578::1699816611::0::1::::<><>::
+thumbnail_selected_theme.tres::Theme::6540880583544088756::1699816611::0::1::::<><>::
 ::res://addons/cyclops_level_builder/docks/material_palette/commands/::1699807832
 cmd_mat_dock_add_materials.gd::GDScript::-1::1699807726::0::1::::CommandMaterialDockAddMaterials<>CyclopsCommand<>::
 cmd_mat_dock_remove_materials.gd::GDScript::-1::1699807726::0::1::::CommandMaterialDockRemoveMaterials<>CyclopsCommand<>::
@@ -213,8 +213,8 @@ block_data.gd::GDScript::-1::1699807727::0::1::::BlockData<>Resource<>::
 convex_block_data.gd::GDScript::-1::1699807727::0::1::::ConvexBlockData<>Resource<>::
 cyclops_config.gd::GDScript::-1::1699807727::0::1::::CyclopsConfig<>Resource<>::
 tool_tag.gd::GDScript::-1::1699807727::0::1::::ToolTag<>Resource<>::
-::res://addons/cyclops_level_builder/shaders/::1699808796
-outline_shader.tres::VisualShader::4976330123338311102::1699808796::0::1::::<><>::
+::res://addons/cyclops_level_builder/shaders/::1699816611
+outline_shader.tres::VisualShader::4976330123338311102::1699816611::0::1::::<><>::
 tool_outline_shader.tres::VisualShader::6796597932207006307::1699807727::0::1::::<><>::
 vertex_shader.tres::Shader::7485550559320119999::1699807727::0::1::::<><>::
 ::res://addons/cyclops_level_builder/tools/::1699807833

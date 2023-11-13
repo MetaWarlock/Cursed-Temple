@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://cun2cevu7gjua"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7e0h6"]
+albedo_color = Color(0.211765, 0.105882, 0, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8ye2i"]
+albedo_color = Color(0, 1, 0, 1)
+
+[node name="WiseTree" type="Node3D"]
+
+[node name="CSGCylinder3D" type="CSGCylinder3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.25, 0)
+radius = 0.2
+height = 2.5
+material = SubResource("StandardMaterial3D_7e0h6")
+
+[node name="CSGSphere3D" type="CSGSphere3D" parent="CSGCylinder3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.80951, 0)
+radius = 1.0
+material = SubResource("StandardMaterial3D_8ye2i")
